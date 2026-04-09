@@ -7,7 +7,7 @@ from pywikibot.page import FilePage
 # -----------------------------
 # KONFIGURACE
 # -----------------------------
-TARGET_USER = "JAn Dudík"
+TARGET_USER = "My username"
 SUMMARY = "Adding or completing SDC author (P170) with qualifiers"
 MAX_EDITS = 10   # limit počtu EDITACÍ
 
