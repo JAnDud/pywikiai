@@ -1,4 +1,4 @@
 For long time I have bot on wikimedia projects, but I am not able to write own scripts, so I used pywikibot.
 Sometimes I asked somebody for some specific script.
 With AI, namely ChatGPT I am now able to write and debug one- or multipurpose scripts.
-Here I have public backup of them
+Here I have public backup of them. Most of them are czech wiki specific, but some should be used for other projects too.
